@@ -1,5 +1,5 @@
 # JustWatch Data ETL Project
-This repository contains my web scraping project focused on extracting, transforming, and loading (ETL) data from JustWatch. The goal was to scrape movie and TV show information from the JustWatch platform using Selenium, BeautifulSoup, and Python, followed by data filtering and analysis with Pandas, and finally exporting the results to a CSV file.
+This repository contains my web scraping project focused on extracting, transforming, and loading (ETL) data from JustWatch. The goal was to scrape movie and TV show information from the JustWatch platform using  BeautifulSoup, and Python, Matplotlib, Seaborn followed by data filtering and analysis with Pandas, and finally exporting the results to a CSV file.
 ![image](https://github.com/user-attachments/assets/47f825a5-c232-48d4-9732-9840a5b04607)
 
 ## Project Description
@@ -7,8 +7,6 @@ JustWatch is a popular platform that allows users to search for movies and TV sh
 
 ## Technologies Used
 Python: The primary programming language used for scripting.
-
-Selenium: For web browsing automation and data extraction.
 
 BeautifulSoup: For parsing HTML content and extracting the required data.
 
