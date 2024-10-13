@@ -13,8 +13,8 @@ BeautifulSoup: For parsing HTML content and extracting the required data.
 
 Pandas: For data filtering, analysis, and exporting the results to CSV.
 
-Tasks Performed
-Web Scraping
+## Tasks Performed
+### Web Scraping
 
 Extracted data for movies and TV shows, including:
 
@@ -32,7 +32,7 @@ URL to the JustWatch page
 
 Scoped to scrape data for at least 50 movies and 50 TV shows, ensuring a diverse dataset.
 
-Data Filtering & Analysis
+### Data Filtering & Analysis
 
 Filtered the dataset to include:
 
@@ -48,18 +48,18 @@ Identify the top 5 genres with the most movies and TV shows.
 
 Determine the streaming service with the highest number of offerings.
 
-Data Export
+### Data Export
 
 Exported the filtered and analyzed data to a CSV file for further processing and reporting.
 
-Submission Details
+### Submission Details
 The repository includes my Python script with clear comments explaining the scraping, filtering, and analysis processes.
 
 The script is error-free and executable in one go.
 
 The dataset CSV file is available in the repository, and its link is shared in the notebook.
 
-Handling Errors and Best Practices
+### Handling Errors and Best Practices
 Properly handled errors and exceptions during web scraping to ensure robustness.
 
 Followed Python best practices to maintain well-structured and easy-to-understand code.
